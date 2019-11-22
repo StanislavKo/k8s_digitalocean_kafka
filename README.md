@@ -1,6 +1,6 @@
 # Kubernetes. Kafka cluster in Digitalocean or AWS or Azure or GCE or similar cloud.
 
-External access: PLAINTEXT or SASL_PLAINTEXT.
+Main point is in external access outside Kubernetes using PLAINTEXT or SASL_PLAINTEXT (username/password).
 
 Pods:
 
