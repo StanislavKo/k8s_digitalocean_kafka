@@ -2,6 +2,8 @@
 
 Main point is in external access outside Kubernetes using PLAINTEXT or SASL_PLAINTEXT (username/password).
 
+It's needed to have a domain. Set IP for your domain when service "kafka-nginx-service-name" is created and Digitalocean assign IP to it.
+
 Pods:
 
 1) zookeeper
