@@ -1,0 +1,1 @@
+kubectl --kubeconfig="do_config.yaml" create configmap config01 --from-file g:\temp\15\cerebro\k8s\kubectl_kafka\configmap 
