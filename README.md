@@ -5,7 +5,7 @@ External access: PLAINTEXT or SASL_PLAINTEXT.
 Pods:
 
 1) zookeeper
-2) 3 kafka pods
+2) 3 kafka pods - StatefulSet
 3) nginx for external access
 
 ![pods](images/k8s_pods.png)
