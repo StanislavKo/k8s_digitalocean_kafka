@@ -1,4 +1,4 @@
-# Kubernetes. Kafka cluster in Digitalocean or AWS or Azure or GCE or similar cloud.
+# Kubernetes. Kafka cluster in Digitalocean.
 
 Main point is in external access outside Kubernetes using PLAINTEXT or SASL_PLAINTEXT (username/password).
 
