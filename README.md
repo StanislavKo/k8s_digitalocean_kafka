@@ -37,7 +37,7 @@ props.put("sasl.mechanism", "PLAIN");
 props.put("sasl.jaas.config", jaasCfg);
 ```
 
-Scaling up
+Scaling up (video)
 ------------
 
 [![Scaling up](https://img.youtube.com/vi/l3vpN5les-U/0.jpg)](https://www.youtube.com/watch?v=l3vpN5les-U)
