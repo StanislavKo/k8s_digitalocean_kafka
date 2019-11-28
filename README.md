@@ -37,6 +37,11 @@ props.put("sasl.mechanism", "PLAIN");
 props.put("sasl.jaas.config", jaasCfg);
 ```
 
+Client properties
+------------
+
+Scaling up a cluster: https://youtu.be/l3vpN5les-U
+
 Screenshots
 ------------
 
