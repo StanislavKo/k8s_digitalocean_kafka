@@ -40,7 +40,7 @@ props.put("sasl.jaas.config", jaasCfg);
 Scaling up
 ------------
 
-[![Scaling up a cluster](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=l3vpN5les-U)
+[![Scaling up](https://img.youtube.com/vi/l3vpN5les-U/0.jpg)](https://www.youtube.com/watch?v=l3vpN5les-U)
 
 Screenshots
 ------------
